@@ -1,0 +1,105 @@
+header {
+    
+    padding: 60px;
+    background-image: url('/img/download.svg');
+    background-size: cover;
+    background-position: bottom;
+    color: white;
+}
+body {
+    margin:  0 80px;
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+.button {
+border: 1px solid white;
+margin: 15px 0;
+font-size: .9em;
+text-align: center;
+width: 100px;
+
+}
+
+
+.baseline {
+
+    align-items: baseline;
+}
+
+.flex-container {
+    display: flex;
+    
+    justify-content: center;
+}
+
+.space-around {
+    justify-content: space-between;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img-header {
+    width: 20px;
+    height: 15px;
+}
+
+
+
+.nav-links li {
+
+    padding: 0 10px;
+}
+
+.justify-center {
+        justify-content: center;
+    
+}
+
+.carosel {    
+    flex-wrap: wrap
+}
+.carosel img {
+    width: 150px;
+}
+
+.main p {
+    padding: 20px;
+}
+
+.numbers span {
+    font-size: 2em;
+}
+
+.box-number {
+        padding: 34px;
+        text-align: center;
+        }
+
+.box-number h3 {
+    color: #1e2434;
+    font-weight: 600;
+    font-size: 2.5em;
+
+}
+
+.box-number p {
+    text-transform: uppercase;
+    color: #1e2434;
+}
+
+.sectionstudent img {
+    width: 80%;
+    
+}
+
+.aside {
+    width: 30%;
+    padding: 10;
+    margin: 20px;
+}
